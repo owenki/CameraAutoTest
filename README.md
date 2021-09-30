@@ -1,0 +1,2 @@
+# CameraAutoTest
+config.xlsm needed
